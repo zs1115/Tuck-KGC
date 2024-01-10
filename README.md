@@ -1,6 +1,6 @@
 # Runing a Model  
 To run the model, execute the following command:               
- <span style="color:#333333">`  </span>            
+ <span style="color:#333333"> </span>            
      
                                        
       CUDA_VISIBLE_DEVICES=0 python main.py --dataset FB15k-237 --num_iterations 500 --batch_size 256             
