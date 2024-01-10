@@ -10,6 +10,8 @@ To run the model, execute the following command:
 The codebase is implemented in Python 3.6.6. Required packages are:  
  
 
-<span style="color:#333333">`numpy 1.15.1          
+<span style="color:#333333">` </span>        
 
-pytorch    1.0.1` </span>          
+    numpy 1.15.1          
+
+    pytorch    1.0.1`</span>          
