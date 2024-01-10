@@ -1,7 +1,7 @@
 # Runing a Model  
 To run the model, execute the following command:               
 
-<span style="color:#333333">`CUDA_VISIBLE_DEVICES=0 python main.py --dataset FB15k-237 --num_iterations 500 --batch_size 256                
+<span style="color:#333333">`CUDA_VISIBLE_DEVICES=0 python main.py --dataset FB15k-237 --num_iterations 500 --batch_size 256` </span>                 
 
                                        --lr 0.003 --dr 1.0 --edim 400 --rdim 400 --input_dropout 0          
                                        
