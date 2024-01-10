@@ -10,7 +10,7 @@ To run the model, execute the following command:
 The codebase is implemented in Python 3.6.6. Required packages are:  
  
 
-<span style="color:#333333">` </span>        
+<span style="color:#333333"> </span>        
 
     numpy 1.15.1          
 
