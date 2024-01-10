@@ -8,3 +8,4 @@ The codebase is implemented in Python 3.6.6. Required packages are:
 '<numpy      1.15.1
 pytorch    1.0.1>'  
 
+<span style="color:#333333">`printf(hello)` </span>
