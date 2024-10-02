@@ -1,5 +1,5 @@
 # Requirements
-## The codebase is implemented in Python 3.6.6. Required packages are:
+## The codebase is implemented in Python 3.8.18. Required packages are:
 matplotlib	3.7.3  
 numpy	1.24.3  
 pandas	2.0.3  
