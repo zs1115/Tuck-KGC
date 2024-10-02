@@ -6,7 +6,6 @@ pandas	2.0.3
 pycparser	2.21  
 python 3.8.18  
 pytest	8.3.3  
-scikit-image	0.21.0  
 scikit-learn	1.3.2  
 tensorstore	0.1.45  
 torch	2.2.0+cu121  
